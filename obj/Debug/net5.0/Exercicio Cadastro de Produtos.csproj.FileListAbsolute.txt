@@ -1,0 +1,16 @@
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\bin\Debug\net5.0\Exercicio Cadastro de Produtos.exe
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\bin\Debug\net5.0\Exercicio Cadastro de Produtos.deps.json
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\bin\Debug\net5.0\Exercicio Cadastro de Produtos.runtimeconfig.json
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\bin\Debug\net5.0\Exercicio Cadastro de Produtos.runtimeconfig.dev.json
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\bin\Debug\net5.0\Exercicio Cadastro de Produtos.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\bin\Debug\net5.0\ref\Exercicio Cadastro de Produtos.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\bin\Debug\net5.0\Exercicio Cadastro de Produtos.pdb
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\obj\Debug\net5.0\Exercicio Cadastro de Produtos.csprojAssemblyReference.cache
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\obj\Debug\net5.0\Exercicio Cadastro de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\obj\Debug\net5.0\Exercicio Cadastro de Produtos.AssemblyInfoInputs.cache
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\obj\Debug\net5.0\Exercicio Cadastro de Produtos.AssemblyInfo.cs
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\obj\Debug\net5.0\Exercicio Cadastro de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\obj\Debug\net5.0\Exercicio Cadastro de Produtos.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\obj\Debug\net5.0\ref\Exercicio Cadastro de Produtos.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\obj\Debug\net5.0\Exercicio Cadastro de Produtos.pdb
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio Cadastro de Produtos\obj\Debug\net5.0\Exercicio Cadastro de Produtos.genruntimeconfig.cache
